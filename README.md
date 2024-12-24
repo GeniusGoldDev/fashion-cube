@@ -21,7 +21,7 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 - Product category
 - Recommended products
 - Cart
-- Login / Register
+- Login & Register
 
 # ScreenShot
 
